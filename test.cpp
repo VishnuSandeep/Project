@@ -6,4 +6,5 @@ int main(){
       cout << "hi";
       cout << "name";
       cout << "hi again";
+      cout << "EZ"; 
 }
